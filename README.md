@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imotechs
+- 👋 Hi, I’m Adzembeh Joshua
 - 👀 I’m interested in python/django/javacript
 - 🌱 Because there are my Major tools
 - 💞️ I’m looking to collaborate on GitHub
